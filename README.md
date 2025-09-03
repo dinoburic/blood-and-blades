@@ -42,4 +42,14 @@ By defeating him – the castle is liberated.
 - **Game engine:** Unity (C#)  
 - **3D models:** Blender / Asset Store  
 - **Audio:** Unity Audio System  
-- **Version control:** Git & GitHub  
+- **Version control:** Git & GitHub
+- 
+---
+
+- ## 🚀 How to Run the Game
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/username/blood-and-blades.git
+2. Open the project in Unity Hub (version e.g. 2022.3 LTS)
+3. Launch the MainMenu scene and click Play
