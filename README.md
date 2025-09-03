@@ -28,7 +28,9 @@ By defeating him – the castle is liberated.
 - **Movement:** WASD for movement, Space for sliding  
 - **Combat:** Left click to attack, triple left click for a dash  
 - **Inventory:** System for collecting coins and purchasing equipment  
-- **Level progression:** Portal unlocks only after completing the mission on the level  
+- **Level progression:** Portal unlocks only after completing the mission on the level
+
+- ![Attack](Assets/Attack.png)
 
 ---
 
