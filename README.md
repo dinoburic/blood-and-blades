@@ -47,7 +47,7 @@ By defeating him – the castle is liberated.
 - **3D models:** Blender / Asset Store  
 - **Audio:** Unity Audio System  
 - **Version control:** Git & GitHub
-- 
+  
 ---
 
 - ## 🚀 How to Run the Game
