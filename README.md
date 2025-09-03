@@ -5,6 +5,8 @@
 **Blood & Blades** is a 3D action–adventure game developed in Unity.  
 The player takes on the role of a knight whose main mission is to free an occupied castle from enemies.  
 
+![BloodandBlades](Assets/Blood&Blades.png)
+
 ---
 
 ## 🎮 Game Description
